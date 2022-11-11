@@ -1,7 +1,7 @@
 public class NumerosAleatorios {
 
   public static void main(String[] args) {
-    final int LONGITUDNUMEROS = 20;
+    final int LONGITUDNUMEROS = 30;
     final int MINIMO = 1;
     final int MAXIMO = 10;
     int[] numerosAleatorios = new int[LONGITUDNUMEROS];
